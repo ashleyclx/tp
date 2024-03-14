@@ -325,7 +325,6 @@ Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unli
 4.  Librarian removes the book from the borrower.
 5.  MyBookshelf updates the borrower's details. 
 
-
     Use case ends.
 
 **Extensions**
